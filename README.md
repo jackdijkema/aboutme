@@ -1,13 +1,5 @@
-### About me 👋🏼
-I'm a student at the University of Applied Sciences Leiden in the Netherlands, studying Software Engineering. I have a passion for developing software and enjoy working with a variety of technologies.
-
-💼 Open to internship offerings.
-
 ### ✉️ Get in Touch 
 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/jackdijkema/) or email me at jackdijkema@hotmail.com. I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision(s).
-
-
-
 ### GitHub Stats
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
