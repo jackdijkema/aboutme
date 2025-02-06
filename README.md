@@ -1,5 +1,5 @@
 ### ✉️ Get in Touch 
-Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/jackdijkema/) or email me at jackdijkema@hotmail.com. I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision(s).
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/jackdijkema/) or email me at jackdijkema@hotmail.com. I'm always open to discussing new projects, creative ideas, or opportunities.
 ### GitHub Stats
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
